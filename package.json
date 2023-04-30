@@ -1,0 +1,14 @@
+{
+  "name": "mini-sistema",
+  "version": "1.0.0",
+  "description": "actividad sistema de alumnos",
+  "type": "module",
+  "scripts": {
+    "server": "cls && node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
